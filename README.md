@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=GiHwan's%20Repository&fontSize=60)
 ![GiHwan123's github stats](https://github-readme-stats.vercel.app/api?username=GiHwan123&show_icons=true)![GiHwan123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiHwan123&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 ### ⚙Tech Stack
 ***
